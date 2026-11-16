@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocaMobile</string>
+    <string name="rechercher">Chercher</string>
+    <string name="hint_ville">Ville (vide = toutes)</string>
+    <string name="connexion">Connexion</string>
+    <string name="publier">Publier</string>
+</resources>
